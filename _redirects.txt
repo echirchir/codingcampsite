@@ -1,0 +1,1 @@
+https://codingcamp.netlify.com/* https://www.codingcamp.co.ke/:splat 301!
